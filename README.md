@@ -17,3 +17,10 @@
   <td>Провести исследовательский анализ данных, который поможет установить параметры, влияющие на цену объектов. </td>
   <td>pandas, seaborn, matplotlib.pyplot</td>
 </tr>
+
+<tr>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Apartment-sales/Apartment-sales.ipynb">  Выявление закономерностей, определяющих успешность компьютерных игр </a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Отработка принципов работы с данными. Cделать ставку на потенциально популярный продукт и спланировать рекламные кампании на 2017 г.</td>
+  <td>pandas, seaborn, matplotlib, numpy, scipy</td>
+</tr>
