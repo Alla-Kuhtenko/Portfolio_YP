@@ -29,7 +29,7 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Apartment-sales/Apartment-sales.ipynb"> Развлекательное приложение Procrastinate Pro+</a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Entertainment-app-Procrastinate-Pro%2B/Entertainment-app-Procrastinate-Pro%2B.ipynb"> Развлекательное приложение Procrastinate Pro+</a></td>
   <td>Яндекс.Практикум</td>
   <th>Анализ бизнес-показателей</th>
   <td>Разобраться в причинах убытков и помочь компании выйти в плюс. </td>
