@@ -59,4 +59,4 @@
 Всё вышеперечисленное свидетельствует о том, что при разработке стратегии маркетинговой кампании необходимо выстраивать её на разные сегменты аудитории и в несколько этапов.
 
 
-##  [Посмотреть ход решения](https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Online-computer-games-store/Online%20computer%20games%20store.ipynb)
+##  [Посмотреть ход решения](https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Entertainment-app-Procrastinate-Pro%2B/Entertainment-app-Procrastinate-Pro%2B.ipynb)
