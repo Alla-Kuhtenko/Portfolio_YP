@@ -24,3 +24,10 @@
   <td>Отработка принципов работы с данными. Cделать ставку на потенциально популярный продукт и спланировать рекламные кампании на 2017 г.</td>
   <td>pandas, seaborn, matplotlib, numpy, scipy</td>
 </tr>
+
+<tr>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Apartment-sales/Apartment-sales.ipynb"> Развлекательное приложение Procrastinate Pro+</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Разобраться в причинах убытков и помочь компании выйти в плюс. </td>
+  <td>pandas, seaborn, numpy, matplotlib.pyplot</td>
+</tr>
