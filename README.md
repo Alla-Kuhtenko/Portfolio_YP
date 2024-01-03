@@ -35,3 +35,12 @@
   <td>Разобраться в причинах убытков и помочь компании выйти в плюс. </td>
   <td>pandas, seaborn, numpy, matplotlib.pyplot</td>
 </tr>
+
+<tr>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/blob/main/Business-decision-making/Business-decision-making.ipynb"> Принятие решений в бизнесе.</a></td>
+  <td>Яндекс.Практикум</td>
+  <th>Принятие решений в бизнесе</th>
+  <td>Увеличение выручки крупного интернет-магазина. </td>
+  <td>pandas, seaborn, numpy, matplotlib.pyplot</td>
+</tr>
+
