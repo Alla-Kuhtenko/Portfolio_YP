@@ -37,10 +37,17 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Business-decision-making"> Приоритезация гипотез и принятие решений по результатам A/B-теста.</a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Business-decision-making"> Приоритизация гипотез и принятие решений по результатам A/B-теста.</a></td>
   <td>Яндекс.Практикум</td>
   <th>Принятие решений в бизнесе</th>
   <td>Увеличение выручки крупного интернет-магазина. </td>
   <td>pandas, seaborn, numpy, matplotlib.pyplot, scipy</td>
 </tr>
 
+<tr>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Business-decision-making"> Стартап - продажа продуктов питания.</a></td>
+  <td>Яндекс.Практикум</td>
+  <th>Сборный проект - 2</th>
+  <td>Разобраться в поведении пользователей мобильного приложения. </td>
+  <td>pandas, seaborn, numpy, matplotlib.pyplot, scipy</td>
+</tr>
