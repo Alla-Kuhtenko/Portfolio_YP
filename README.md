@@ -45,7 +45,7 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Business-decision-making"> Стартап - продажа продуктов питания.</a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/A-large-online-store"> Стартап - продажа продуктов питания.</a></td>
   <td>Яндекс.Практикум</td>
   <th>Сборный проект - 2</th>
   <td>Разобраться в поведении пользователей мобильного приложения. </td>
