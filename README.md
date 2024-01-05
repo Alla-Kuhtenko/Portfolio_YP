@@ -47,7 +47,7 @@
 <tr>
     <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Startup-food-sales"> Стартап - продажа продуктов питания.</a></td>
   <td>Яндекс.Практикум</td>
-  <th>Сборный проект - 2</th>
+  <th>Сборный проект — 2</th>
   <td>Изучить поведение пользователей мобильного приложения. </td>
   <td>pandas, seaborn, numpy, matplotlib.pyplot, scipy</td>
 </tr>
