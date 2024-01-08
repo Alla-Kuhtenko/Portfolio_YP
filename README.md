@@ -21,10 +21,10 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Online-computer-games-store">  Выявление закономерностей, определяющих успешность компьютерных игр. Интернет-магазин «Стримчик». </a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Online-computer-games-store">  Интернет-магазин «Стримчик». </a></td>
   <td>Яндекс.Практикум</td>
   <th>Сборный Проект — 1</th>
-  <td>Отработка принципов работы с данными. Cделать ставку на потенциально популярный продукт и спланировать рекламные кампании на 2017 г.</td>
+  <td>Выявление закономерностей, определяющих успешность компьютерных игр. Отработка принципов работы с данными. Cделать ставку на потенциально популярный продукт и спланировать рекламные кампании на 2017 г.</td>
   <td>pandas, seaborn, matplotlib, numpy, scipy</td>
 </tr>
 
@@ -37,10 +37,10 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Business-decision-making"> Приоритизация гипотез и принятие решений по результатам A/B-теста.</a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Business-decision-making"> Крупный интернет-магазин.</a></td>
   <td>Яндекс.Практикум</td>
   <th>Принятие решений в бизнесе</th>
-  <td>Увеличение выручки крупного интернет-магазина. </td>
+  <td>Приоритизация гипотез и принятие решений по результатам A/B-теста. Увеличение выручки крупного интернет-магазина. </td>
   <td>pandas, seaborn, numpy, matplotlib.pyplot, scipy</td>
 </tr>
 
