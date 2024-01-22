@@ -56,6 +56,6 @@
     <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/public-catering-moscow-places"> Рынок заведений общественного питания Москвы.</a></td>
   <td>Яндекс.Практикум</td>
   <th>Как рассказать историю с помощью данных</th>
-  <td>Подготовить исследование рынка Москвы для выбора подходящего инвесторам места.</td>
+  <td>Подготовить исследование рынка общественного питания Москвы для выбора подходящего инвесторам места.</td>
   <td>pandas, seaborn, numpy, matplotlib.pyplot, pathlib, folium</td>
 </tr>
