@@ -57,5 +57,5 @@
   <td>Яндекс.Практикум</td>
   <th>Как рассказать историю с помощью данных</th>
   <td>Подготовить исследование рынка общественного питания Москвы для выбора подходящего инвесторам места.</td>
-  <td>pandas, seaborn, numpy, matplotlib.pyplot, pathlib, folium</td>
+  <td>pandas, seaborn, numpy, matplotlib.pyplot, pathlib, folium, graph_objects from plotly</td>
 </tr>
