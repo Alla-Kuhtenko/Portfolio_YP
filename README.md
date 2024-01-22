@@ -53,7 +53,7 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Startup-food-sales"> Рынок заведений общественного питания Москвы.</a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/public-catering-moscow-places"> Рынок заведений общественного питания Москвы.</a></td>
   <td>Яндекс.Практикум</td>
   <th>Как рассказать историю с помощью данных</th>
   <td>Подготовить исследование рынка Москвы для выбора подходящего инвесторам места.</td>
