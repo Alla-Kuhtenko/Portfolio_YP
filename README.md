@@ -69,7 +69,7 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/public-catering-moscow-places"> Банк «Метанпромбанк». Анализ оттока клиентов.</a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Bank-customer-outflow"> Банк «Метанпромбанк». Анализ оттока клиентов.</a></td>
   <td>Яндекс.Практикум</td>
   <th>Дипломный проект — 1</th>
   <td>Подготовить анализ клиентов регионального банка и выделить сегменты клиентов, которые склонны уходить из банка.</td>
