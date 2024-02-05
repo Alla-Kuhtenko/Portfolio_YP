@@ -60,8 +60,8 @@
  
 ## `Навыки и используемые библиотеки:`
 
-- Маркетинговый анализ, визуализация с применением хороплета (или фоновых картограмм), создание презентации в PowerPoint
-- pandas, seaborn, numpy, matplotlib.pyplot, pathlib, folium, graph_objects from plotly
+- Подготовка данных, исследовательский анализ данных (EDA), статистический анализ данных, визуализация данных, работа с BI-инструментами, создание презентации в PowerPoint
+- pandas, seaborn, numpy, scipy, math, datetime, matplotlib.pyplot, Tableau  
 
 ## `Итоги исследования:`
 
