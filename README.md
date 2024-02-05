@@ -61,7 +61,7 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/public-catering-moscow-places"> Автоматизация процесса аналитики в Дзен.</a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Automation-analytics-Zen"> Автоматизация процесса аналитики в Дзен.</a></td>
   <td>Яндекс.Практикум</td>
   <th>Автоматизация</th>
   <td>Автоматизировать анализ пользовательского взаимодействия с карточками статей и на его основе спроектировать дашборд.</td>
