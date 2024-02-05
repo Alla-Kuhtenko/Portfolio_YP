@@ -59,3 +59,11 @@
   <td>Подготовить исследование рынка общественного питания Москвы для выбора подходящего инвесторам места.</td>
   <td>pandas, seaborn, numpy, matplotlib.pyplot, pathlib, folium, graph_objects from plotly</td>
 </tr>
+
+<tr>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/public-catering-moscow-places"> Автоматизация процесса аналитики в Дзен.</a></td>
+  <td>Яндекс.Практикум</td>
+  <th>Автоматизация</th>
+  <td>Автоматизировать анализ пользовательского взаимодействия с карточками статей и на его основе спроектировать дашборд.</td>
+  <td>Составление ТЗ, Tableau</td>
+</tr>
