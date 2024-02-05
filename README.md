@@ -65,5 +65,13 @@
   <td>Яндекс.Практикум</td>
   <th>Автоматизация</th>
   <td>Автоматизировать анализ пользовательского взаимодействия с карточками статей и на его основе спроектировать дашборд.</td>
-  <td>Составление ТЗ, Tableau</td>
+  <td>Tableau</td>
+</tr>
+
+<tr>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/public-catering-moscow-places"> Банк «Метанпромбанк». Анализ оттока клиентов.</a></td>
+  <td>Яндекс.Практикум</td>
+  <th>Дипломный проект — 1</th>
+  <td>Подготовить анализ клиентов регионального банка и выделить сегменты клиентов, которые склонны уходить из банка.</td>
+  <td>pandas, seaborn, numpy, scipy, math, datetime, matplotlib.pyplot</td>
 </tr>
