@@ -77,9 +77,9 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Bank-customer-outflow"> A/B-тестирование.</a></td>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/A_B-testing"> A/B-тестирование.</a></td>
   <td>Яндекс.Практикум</td>
   <th>Дипломный проект — 2</th>
-  <td>ПОценить корректность проведения теста и проанализировать его результаты.</td>
+  <td>Оценить корректность проведения теста и проанализировать его результаты.</td>
   <td>pandas, seaborn, numpy, scipy, math, datetime, pandas.plotting</td>
 </tr>
