@@ -75,3 +75,11 @@
   <td>Подготовить анализ клиентов регионального банка и выделить сегменты клиентов, которые склонны уходить из банка.</td>
   <td>pandas, seaborn, numpy, scipy, math, datetime, matplotlib.pyplot</td>
 </tr>
+
+<tr>
+    <td><a href = "https://github.com/Alla-Kuhtenko/Portfolio_YP/tree/main/Bank-customer-outflow"> A/B-тестирование.</a></td>
+  <td>Яндекс.Практикум</td>
+  <th>Дипломный проект — 2</th>
+  <td>ПОценить корректность проведения теста и проанализировать его результаты.</td>
+  <td>pandas, seaborn, numpy, scipy, math, datetime, pandas.plotting</td>
+</tr>
