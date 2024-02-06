@@ -43,7 +43,7 @@
   ### `Описание данных:`   
      
  ##### `Файлы: final_ab_events.csv, ab_project_marketing_events.csv, final_ab_new_users.csv, final_ab_participants.csv`
- ссылка: [https://code.s3.yandex.net/datasets/](https://code.s3.yandex.net/datasets/):  
+ ссылка: [https://code.s3.yandex.net/datasets/](https://code.s3.yandex.net/datasets/)  
 
 `ab_project_marketing_events.csv` — календарь маркетинговых событий на 2020 год.  
   
